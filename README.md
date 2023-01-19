@@ -1,2 +1,2 @@
 # Santa-Monica-Project
-santa-monica.asi
+Santa Monica Community Discord-RPC eklentisi
